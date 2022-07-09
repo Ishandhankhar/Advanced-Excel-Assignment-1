@@ -1,0 +1,28 @@
+Q1. What does the dollar($) sign do?
+Dollar sign $ is used to format the general/numerical data type to Currency/Accounting Format.
+Also it is used to convert relative reference to Absolute reference.
+
+Q2. How to Change the Reference from Relative to Absolute (or Mixed)
+By using dollar sign ($) before and after column/row name. Ex : $F$10
+This will give absolute reference to Column F.
+
+Q3. Explain the order of operations in excel? 
+In general, Excel's order of operation follows the acronym PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction)
+
+Q4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two? 
+SUM : =SUM(number1,[number2] ,…)
+MIN : = MIN(number1, [number2], …) number1, [number2], …)
+MAX
+AVERAGE
+COUNT
+
+Q5. When would you use the subtotal function
+We can use the subtotal function when we want to display a Total row in an Excel Table.
+
+Q6. What is the syntax of the vlookup function? Explain the terms in it?
+Syntax : =VLOOKUP (lookup_value, table_array, col_index_number, [range_lookup]) 
+MEANING : 
+Lookup_value : What you want to look up
+Table_array : where you want to look for it
+Col_index_number : the column number in the range containing the value to return, 
+return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE)
